@@ -1,0 +1,13 @@
+
+img{
+    width: 150px;
+    height: 150px;
+    margin: 2px;
+}
+.dollieBlair{
+    width: 80%;
+    height: 15%;
+    max-width: 1700px;
+    max-height: 280px;
+    border: 2px solid red;
+}
