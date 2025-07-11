@@ -11,3 +11,6 @@ img{
     max-height: 280px;
     border: 2px solid red;
 }
+body{
+    font-size: 10px;
+}
